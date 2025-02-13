@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm currently a computer science student. This GitHub will contain some of my projects completed as part of my studies, as well as a few personal projects
+I'm currently a computer science student. This GitHub will contain some of my study projects, as well as a few personal projects
 
 ### 👩‍🚀 ✨
 
